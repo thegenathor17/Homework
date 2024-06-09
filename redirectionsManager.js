@@ -26,3 +26,11 @@ function Auto()
 {
     window.location.href = "auto.html"
 }
+function Laser()
+{
+    window.location.href = "laser.html"
+}
+function Bio()
+{
+    window.location.href = "biobio.html"
+}
