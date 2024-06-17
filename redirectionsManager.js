@@ -54,3 +54,35 @@ function Meteoros()
 {
     window.location.href = "meteoros.html"
 }
+function Actividad()
+{
+    window.location.href = "actividad.html"
+}
+function Residuos1()
+{
+    window.location.href = "residuos.html"
+}
+function Residuos2()
+{
+    window.location.href = "Residuos Industriales/residuos.html"
+}
+function RSU()
+{
+    window.location.href = "residuos urbanos.html"
+}
+function RSI()
+{
+    window.location.href = "residuos i.html"
+}
+function CMT()
+{
+    window.location.href = "contaminacion.html"
+}
+function nat()
+{
+    window.location.href = "naturaleza.html"
+}
+function resi()
+{
+    window.location.href = "residuos2.html"
+}
