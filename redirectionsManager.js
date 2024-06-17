@@ -34,3 +34,23 @@ function Bio()
 {
     window.location.href = "biobio.html"
 }
+function Optica()
+{
+    window.location.href = "optica.html"
+}
+function Ahorro()
+{
+    window.location.href = "ahorro.html"
+}
+function Genoma()
+{
+    window.location.href = "genonma.html"
+}
+function TVHD()
+{
+    window.location.href = "tvhd.html"
+}
+function Meteoros()
+{
+    window.location.href = "meteoros.html"
+}
